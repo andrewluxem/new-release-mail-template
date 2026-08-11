@@ -1,0 +1,17 @@
+{
+  "name": "new-release-mail-template",
+  "version": "1.0.0",
+  "description": "Turns approved release facts into a review-ready release announcement email. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/new-release-mail-template",
+  "repository": "https://github.com/andrewluxem/new-release-mail-template",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "release-email",
+    "change-communication"
+  ]
+}
